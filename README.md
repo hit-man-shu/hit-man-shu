@@ -57,3 +57,11 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/	317doap2tb6w7s4xescif5kkvmza">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?count=3&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
