@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Himanshu Sahoo from Odisha,India              <img src="[https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge](https://img.freepik.com/free-vector/cute-people-playing-laptop-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-4043.jpg?w=826&t=st=1708947950~exp=1708948550~hmac=532b4e2fbb5873e3c2e8d2ee70a5f36325a7bb4e520e50753cb17e0934d490fe)" height="35" alt="Logo logo"  />  <br><br>- 🔭 I’m a Student<br>- 📚 I'm currently learning React.js<br>- ⚡ In my free time I engage in coding
+I'm Himanshu Sahoo from Odisha,India              <img src="https://img.freepik.com/free-vector/cute-people-playing-laptop-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-4043.jpg?w=826&t=st=1708947950~exp=1708948550~hmac=532b4e2fbb5873e3c2e8d2ee70a5f36325a7bb4e520e50753cb17e0934d490fe" height="35" alt="Logo logo"  />  <br><br>- 🔭 I’m a Student<br>- 📚 I'm currently learning React.js<br>- ⚡ In my free time I engage in coding
 
 
 ## 🌐 Socials:
