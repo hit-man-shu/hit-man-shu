@@ -1,4 +1,4 @@
-I want this image to move right in my md file # 💫 About Me:
+💫 About Me:
 I'm Himanshu Sahoo from Odisha,India <br><br>- 🔭 I’m a Student <br>- 📚 I'm currently learning React.js<br>- ⚡ In my free time I engage in coding
 
 
